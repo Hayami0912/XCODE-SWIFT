@@ -1,29 +1,8 @@
 {
-   "Hamsters":[
-      {
-         "HamsterName":"Winter White Drawf",
-         "HamsterColor":"White Gray",
-         "HamsterDescription":"Winter White Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
-         "HamsterSize":4.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/WinterWhite.jpg?raw=true",
-         "HamsterOrigin":"Russia",
-         "HamsterSocial":"Med",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Winter_white_dwarf_hamster"
-      },
-      {
-         "HamsterName":"Golden",
-         "HamsterColor":"Light Brown",
-         "HamsterDescription":"Golden hamster, (Mesocricetus auratus), a species of hamster commonly kept as a pet. Like other hamsters, it has a stout body with short, stocky legs and short, wide feet with small, sharp claws. The head has small, furry ears and huge internal cheek pouches that open inside the lips and extend to behind the shoulders.",
-         "HamsterSize":6.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Golden.jpg?raw=true",
-         "HamsterOrigin":"Syria",
-         "HamsterSocial":"Med",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Golden_hamster"
-      },
+   "Hamsters":
+   [
+      {"HamsterName":"Winter White Drawf","HamsterColor":"White Gray","HamsterDescription":"Winter White Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.","HamsterSize":4.0,"HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/WinterWhite.jpg?raw=true","HamsterOrigin":"Russia","HamsterSocial":"Med","HamsterLifetime":"2 Years","HamsterExperience":"Beginner","HamsterSite":"https://en.wikipedia.org/wiki/Winter_white_dwarf_hamster"},
+      {"HamsterName":"Golden","HamsterColor":"Light Brown","HamsterDescription":"Golden hamster, (Mesocricetus auratus), a species of hamster commonly kept as a pet. Like other hamsters, it has a stout body with short, stocky legs and short, wide feet with small, sharp claws. The head has small, furry ears and huge internal cheek pouches that open inside the lips and extend to behind the shoulders.","HamsterSize":6.0,"HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Golden.jpg?raw=true","HamsterOrigin":"Syria","HamsterSocial":"Med","HamsterLifetime":"2 Years","HamsterExperience":"Beginner","HamsterSite":"https://en.wikipedia.org/wiki/Golden_hamster"},
       {
          "HamsterName":"Roborovski Drawf",
          "HamsterColor":"Light Gray",
