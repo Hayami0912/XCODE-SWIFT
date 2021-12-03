@@ -1,56 +1,78 @@
 {
-   "Hamsters":
-   [
-      {"HamsterName":"Winter White Drawf","HamsterColor":"White Gray","HamsterDescription":"Winter White Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.","HamsterSize":4.0,"HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/WinterWhite.jpg?raw=true","HamsterOrigin":"Russia","HamsterSocial":"Med","HamsterLifetime":"2 Years","HamsterExperience":"Beginner","HamsterSite":"https://en.wikipedia.org/wiki/Winter_white_dwarf_hamster"},
-      {"HamsterName":"Golden","HamsterColor":"Light Brown","HamsterDescription":"Golden hamster, (Mesocricetus auratus), a species of hamster commonly kept as a pet. Like other hamsters, it has a stout body with short, stocky legs and short, wide feet with small, sharp claws. The head has small, furry ears and huge internal cheek pouches that open inside the lips and extend to behind the shoulders.","HamsterSize":6.0,"HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Golden.jpg?raw=true","HamsterOrigin":"Syria","HamsterSocial":"Med","HamsterLifetime":"2 Years","HamsterExperience":"Beginner","HamsterSite":"https://en.wikipedia.org/wiki/Golden_hamster"},
-      {
-         "HamsterName":"Roborovski Drawf",
-         "HamsterColor":"Light Gray",
-         "HamsterDescription":"Roborovski Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
-         "HamsterSize":4.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Robo.jpg?raw=true",
-         "HamsterOrigin":"China",
-         "HamsterSocial":"Low",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Roborovski_dwarf_hamster"
-      },
-      {
-         "HamsterName":"Campbell Drawff",
-         "HamsterColor":"White Gray",
-         "HamsterDescription":"The Campbell’s Dwarf Hamster inhabits the steppes of eastern and central Asia, digging burrows which may extend up to three feet underground. These burrows are commonly lined with scavenged shee’s wool and dry grasses. The burrows maintain an average temperature of 62 degrees Fahrenheit. Natural predators include various owls, foxes, falcons and weasels.",
-         "HamsterSize":4.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/campbell.jpg?raw=true",
-         "HamsterOrigin":"Mongolia",
-         "HamsterSocial":"Low",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Campbell%27s_dwarf_hamster"
-      },
-      {
-         "HamsterName":"Grey Drawf",
-         "HamsterColor":"White Gray",
-         "HamsterDescription":"The grey dwarf hamster, grey hamster or migratory hamster is a species of rodent in the family Cricetidae. Its range extends from Eastern Europe through the Middle East, Russia and Central Asia to Mongolia and western China. The grey dwarf hamster has grey fur and a head-body length ranging from 85 to 120 mm.",
-         "HamsterSize":3.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Gray.jpg?raw=true",
-         "HamsterOrigin":"Eastern Europe",
-         "HamsterSocial":"Low",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Grey_dwarf_hamster"
-      },
-      {
-         "HamsterName":"Long-Haired Syrian",
-         "HamsterColor":"Light Brown",
-         "HamsterDescription":"Long-Haired Syrian Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
-         "HamsterSize":7.0,
-         "HamsterImage":"https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Syrian.jpg?raw=true",
-         "HamsterOrigin":"Syria",
-         "HamsterSocial":"High",
-         "HamsterLifetime":"2 Years",
-         "HamsterExperience":"Beginner",
-         "HamsterSite":"https://en.wikipedia.org/wiki/Syrian_hamster_care"
-      }
-   ],
-   "Status":"OK"
+    "Hamsters": [{
+            "HamsterName": "Winter White Drawf",
+            "HamsterColor": "White Gray",
+            "HamsterDescription": "Winter White Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
+            "HamsterSize": 4.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/WinterWhite.jpg?raw=true",
+            "HamsterOrigin": "Russia",
+            "HamsterSocial": "Med",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Winter_white_dwarf_hamster",
+			   "HamsterYoutube": "https://www.youtube.com/embed/T-UvWSDVLmw"
+			
+        }, {
+            "HamsterName": "Golden",
+            "HamsterColor": "Light Brown",
+            "HamsterDescription": "Golden hamster, (Mesocricetus auratus), a species of hamster commonly kept as a pet. Like other hamsters, it has a stout body with short, stocky legs and short, wide feet with small, sharp claws. The head has small, furry ears and huge internal cheek pouches that open inside the lips and extend to behind the shoulders.",
+            "HamsterSize": 6.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Golden.jpg?raw=true",
+            "HamsterOrigin": "Syria",
+            "HamsterSocial": "Med",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Golden_hamster",
+			   "HamsterYoutube": "https://www.youtube.com/embed/bcXfgbkIhVM"
+        }, {
+            "HamsterName": "Roborovski Drawf",
+            "HamsterColor": "Light Gray",
+            "HamsterDescription": "Roborovski Dwarf Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
+            "HamsterSize": 4.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Robo.jpg?raw=true",
+            "HamsterOrigin": "China",
+            "HamsterSocial": "Low",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Roborovski_dwarf_hamster",
+			   "HamsterYoutube": "https://www.youtube.com/embed/mBWMqjHawd8"
+        }, {
+            "HamsterName": "Campbell Drawff",
+            "HamsterColor": "White Gray",
+            "HamsterDescription": "The Campbell’s Dwarf Hamster inhabits the steppes of eastern and central Asia, digging burrows which may extend up to three feet underground. These burrows are commonly lined with scavenged shee’s wool and dry grasses. The burrows maintain an average temperature of 62 degrees Fahrenheit. Natural predators include various owls, foxes, falcons and weasels.",
+            "HamsterSize": 4.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/campbell.jpg?raw=true",
+            "HamsterOrigin": "Mongolia",
+            "HamsterSocial": "Low",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Campbell%27s_dwarf_hamster",
+			   "HamsterYoutube": "https://www.youtube.com/embed/3DIn54_XWfM"
+        }, {
+            "HamsterName": "Grey Drawf",
+            "HamsterColor": "White Gray",
+            "HamsterDescription": "The grey dwarf hamster, grey hamster or migratory hamster is a species of rodent in the family Cricetidae. Its range extends from Eastern Europe through the Middle East, Russia and Central Asia to Mongolia and western China. The grey dwarf hamster has grey fur and a head-body length ranging from 85 to 120 mm.",
+            "HamsterSize": 3.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Gray.jpg?raw=true",
+            "HamsterOrigin": "Eastern Europe",
+            "HamsterSocial": "Low",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Grey_dwarf_hamster",
+			   "HamsterYoutube": "https://www.youtube.com/embed/JbINNESJOSg"
+        }, {
+            "HamsterName": "Long-Haired Syrian",
+            "HamsterColor": "Light Brown",
+            "HamsterDescription": "Long-Haired Syrian Hamsters are energetic and athletic creatures that make great pets. Their fur-lined pouches extend from their head to their shoulders, which helps them to transport food. Learn more about these fascinating creatures, their behaviors, and how to care for them in the sections below.",
+            "HamsterSize": 7.0,
+            "HamsterImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/HamsterApp/Images/Syrian.jpg?raw=true",
+            "HamsterOrigin": "Syria",
+            "HamsterSocial": "High",
+            "HamsterLifetime": "2 Years",
+            "HamsterExperience": "Beginner",
+            "HamsterSite": "https://en.wikipedia.org/wiki/Syrian_hamster_care",
+			   "HamsterYoutube": "https://www.youtube.com/embed/Uzu-ftyeXbU"
+        }
+    ],
+    "Status": "OK"
 }
