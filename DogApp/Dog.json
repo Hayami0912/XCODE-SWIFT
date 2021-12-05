@@ -1,0 +1,67 @@
+{
+    "Dogs": [{
+            "DogName": "Pomeranian",
+            "DogColor": "White, Black, Blue, Red, Grey-shaded, Cream, Orange, Tan, Brown.",
+            "DogDescription": "The Pomeranian is a breed of dog of the Spitz type that is named for the Pomerania region in north-west Poland and north-east Germany in Central Europe. Classed as a toy dog breed because of its small size, the Pomeranian is descended from larger Spitz-type dogs, specifically the German Spitz.",
+            "DogSize": "Small",
+            "DogImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/DogApp/Images/Pomeranian.jpg?raw=true",
+            "DogOrigin": "Germany, Poland",
+            "DogSocial": "high",
+            "DogLifetime": "12 – 16 years",
+            "DogExperience": "Beginner",
+            "DogSite": "https://en.wikipedia.org/wiki/Pomeranian_dog",
+			"DogYoutube": "https://www.youtube.com/watch?v=jmaI3YWmbN0"
+			
+        }, {
+            "DogName": "Siberian Husky",
+            "DogColor": "White, Black, Gray & White, Sable & White, Black & Tan, Silver-gray, Black & White, Grey, Red & White.",
+            "DogDescription": "The Siberian Husky is a medium-sized working sled dog breed. The breed belongs to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect triangular ears, and distinctive markings, and is smaller than the similar-looking Alaskan Malamute.",
+            "DogSize": "Large",
+            "DogImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/DogApp/Images/Husky.jpg?raw=true",
+            "DogOrigin": "Siberia",
+            "DogSocial": "high",
+            "DogLifetime": "12 – 15 years",
+            "DogExperience": "Advance",
+            "DogSite": "https://en.wikipedia.org/wiki/Siberian_Husky",
+			"DogYoutube": "https://www.youtube.com/watch?v=tbn8IF0D9Yg"
+        }, {
+            "DogName": "American Pit Bull Terrier",
+            "DogColor": "Black, White, Brindle, Fawn, Tan, Grey, Blue, Brown, Red. ",
+            "DogDescription": "The American Pit Bull Terrier is a dog breed recognized by the United Kennel Club and the American Dog Breeders Association, but not the American Kennel Club. It is a medium-sized, intelligent, short-haired dog, of a solid build, whose early ancestors came from the British Isles.",
+            "DogSize": "Large"
+            "DogImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/DogApp/Images/AmericanPitBull.jpg?raw=true",
+            "DogOrigin": "United States, United Kingdom",
+            "DogSocial": "High",
+            "DogLifetime": "8 – 15 years",
+            "DogExperience": "Advance",
+            "DogSite": "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier",
+			"DogYoutube": "https://www.youtube.com/watch?v=yKkcK_jdaDA"
+        }, {
+            "DogName": "German Shepherd",
+            "DogColor": "Black and Tan, Pure Black, White, Liver, Blue, Isabella, Grey, Silver.",
+            "DogDescription": "The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. According to the FCI, the breed's English language name is German Shepherd Dog.",
+            "DogSize": "Very Large"
+            "DogImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/DogApp/Images/GermanShepherd.jpg?raw=true",
+            "DogOrigin": "Germany",
+            "DogSocial": "Mid",
+            "DogLifetime": "9 – 13 years",
+            "DogExperience": "Advance",
+            "DogSite": "https://en.wikipedia.org/wiki/German_Shepherd",
+			"DogYoutube": "https://www.youtube.com/watch?v=MxaJb-fYR4M"
+        }, {
+            "DogName": "Shiba Inu",
+            "DogColor": "Red Sesame, Sesame, Black Sesame, Black & Tan, Cream, Red.",
+            "DogDescription": "The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native to Japan. A small, alert, and agile dog that copes very well with mountainous terrain and hiking trails, the Shiba Inu was originally bred for hunting..",
+            "DogSize": "Small"
+            "DogImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/DogApp/Images/ShibaInu.jpg?raw=true",
+            "DogOrigin": "Japan",
+            "DogSocial": "Mid",
+            "DogLifetime": "12 – 15 years",
+            "DogExperience": "Beginner",
+            "DogSite": "https://en.wikipedia.org/wiki/Shiba_Inu",
+			"DogYoutube": "https://www.youtube.com/watch?v=g6U4J6botLE"
+      
+        }
+    ],
+    "Status": "OK"
+}
