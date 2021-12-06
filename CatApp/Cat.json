@@ -2,7 +2,7 @@
     "Cats": [{
             "CatName": "Scottish Fold",
             "CatColor": "Multi-color",
-            "CatDescription": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to fold, bending forward and down towards the front of the head, which gives the cat what is often described as an "owl-like" appearance.",
+            "CatDescription": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to fold, bending forward and down towards the front of the head, which gives the cat what is often described as an owl-like appearance.",
             "CatSize": "Medium",
             "CatImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/CatApp/Images/ScottishFold.jpg?raw=true",
             "CatOrigin": "Scotland",
