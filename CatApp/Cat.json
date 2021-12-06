@@ -15,7 +15,7 @@
             "CatName": "Sphynx cat",
             "CatColor": "Solid or patterned",
             "CatDescription": "The Sphynx cat, or simply Sphynx, is a breed of cat known for its lack of fur. Hairlessness in cats is a naturally occurring genetic mutation, and the Sphynx was developed through selective breeding of these animals, starting in the 1960s.",
-            "CatSize": "Medium"
+            "CatSize": "Medium",
             "CatImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/CatApp/Images/Sphynx.jpg?raw=true",
             "CatOrigin": "Toronto",
             "CatSocial": "high",
@@ -27,7 +27,7 @@
             "CatName": "British Shorthair",
             "CatColor": "Grey or White",
             "CatDescription": "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar colour variant is the British Blue, with a solid grey-blue coat, orange eyes, and a medium-sized tail.",
-            "CatSize": "Large"
+            "CatSize": "Large",
             "CatImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/CatApp/Images/BritishShorthair.jpg?raw=true",
             "CatOrigin": "United Kingdom",
             "CatSocial": "Mid",
@@ -39,7 +39,7 @@
             "CatName": "Bengal cat",
             "CatColor": "Patterned",
             "CatDescription": "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, especially the spotted Egyptian Mau, with the Asian leopard cat. Bengal cats are very loving, loyal and a dedicated part of the family unit as they possess a good temperament with children.",
-            "CatSize": "Medium"
+            "CatSize": "Medium",
             "CatImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/CatApp/Images/Bengal.jpg?raw=true",
             "CatOrigin": "United States",
             "CatSocial": "High",
@@ -51,7 +51,7 @@
             "CatName": "Norwegian Forest cat",
             "CatColor": "Patterned",
             "CatDescription": "The Norwegian Forest cat is strongly built and larger than an average cat. They are friendly, intelligent, and generally good with people.[4] The Norwegian Forest cat has a lot of energy. They are very interactive cats who enjoy being part of their family environment and love to play games.",
-            "CatSize": "Medium"
+            "CatSize": "Medium",
             "CatImage": "https://github.com/Hayami0912/XCODE-SWIFT/blob/main/CatApp/Images/NorwegianForest.jpg?raw=true",
             "CatOrigin": "Norway",
             "CatSocial": "Mid",
